@@ -8,4 +8,4 @@ Download Dependencies:
 
 Run with:
 
-`python test.py`
+`python 2dfovplotter.py`
